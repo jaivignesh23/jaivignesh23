@@ -81,5 +81,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <!---
 jaivignesh23/jaivignesh23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes. 
 --->
+[![Linkedin: jai-vignesh](https://img.shields.io/badge/JaiVignesh%20-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/jai-iyyappa-vignesh-m-neu/)](https://www.linkedin.com/in/jai-iyyappa-vignesh-m-neu/)
